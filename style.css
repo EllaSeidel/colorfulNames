@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+body {
+  background-color: #ffffed;
+}
+.container{
+  font-size: 40px;
+  font-family: 'Long Cang';
+  text-align: center;
+}
+#e {
+  color: red;
+}
+#l{
+  color:blue;
+}
+#m{
+  color: green;
+}
+#a{
+  color: purple;
+}
+.bob{
+  font-size: 40px;
+  font-family: "Indie Flower";
+    
+}
+#z{
+  color: grey;
+  font-family:"Indie Flower"
+}
+
+/*ids identify with #*/
