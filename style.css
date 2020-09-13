@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Long+Cang&display=swap');
 body {
   background-color: #ffffed;
 }
@@ -21,7 +21,7 @@ body {
 }
 .bob{
   font-size: 40px;
-  font-family: "Indie Flower";
+  font-family: 'Indie Flower';
     
 }
 #z{
